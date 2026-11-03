@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite our Scientific Reports paper."
+title: "Cyber_Physical_Smart_Grid_Stability: HARSE-SG code and dataset"
+authors:
+  - family-names: "Shufian"
+    given-names: "Abu"
+  - family-names: "Khan"
+    given-names: "Md. Asif"
+  - family-names: "Fatemi"
+    given-names: "Rajin Al"
+  - family-names: "Daiyan"
+    given-names: "F. M. Mahir"
+  - family-names: "Ashiquzzaman"
+    given-names: "Md."
+  - family-names: "Fattah"
+    given-names: "Shaikh Anowarul"
+repository-code: "https://github.com/asifkhaneeereged-design/Cyber_Physical_Smart_Grid_Stability"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Explainable hybrid stacking ensemble for robust smart grid stability assessment under cyber–physical disturbances"
+  authors:
+    - family-names: "Shufian"
+      given-names: "Abu"
+    - family-names: "Khan"
+      given-names: "Md. Asif"
+    - family-names: "Fatemi"
+      given-names: "Rajin Al"
+    - family-names: "Daiyan"
+      given-names: "F. M. Mahir"
+    - family-names: "Ashiquzzaman"
+      given-names: "Md."
+    - family-names: "Fattah"
+      given-names: "Shaikh Anowarul"
+  journal: "Scientific Reports"
+  volume: 16
+  start: 32080
+  year: 2026
+  date-published: 2026-10-08
+  doi: "10.1038/s41598-026-75252-2"
+  url: "https://www.nature.com/articles/s41598-026-75252-2"
